@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a Java Spring Boot developer with 1.5 years of experience and learning Data Structures and Algorithms (DSA) and C++.
 - 💞️ I’m looking to collaborate on backend projects, distributed systems, and any challenging programming tasks.
 - 📫 How to reach me: 
-  - Email: your-email@example.com
+  - Email: narendrajangid04509@gmail.com
   - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - 😄 Pronouns: He
 <!--- - ⚡ Fun fact: I enjoy optimizing code and love participating in coding challenges and hackathons! --->
